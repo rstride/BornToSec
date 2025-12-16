@@ -122,8 +122,6 @@ This project is licensed under the terms specified in the [LICENSE](./LICENSE) f
 
 <div align="center">
 
-*"The quieter you become, the more you can hear."* - Ram Dass
-
 **Happy Hacking! 🎭**
 
 </div>
