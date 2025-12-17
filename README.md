@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Security](https://img.shields.io/badge/Security-CTF-red?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![42](https://img.shields.io/badge/42-Project-black?style=for-the-badge&logo=42&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
