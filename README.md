@@ -86,8 +86,10 @@ flowchart LR
 
 | Path | Description | Difficulty |
 |------|-------------|------------|
-| [Writeup 1](./writeup1) | Primary exploitation vector | ⭐⭐⭐ |
-| [Writeup 2](./writeup2) | Alternative attack path | ⭐⭐⭐⭐ |
+| [Writeup 1](./writeup1) | Primary exploitation vector | ⭐⭐⭐⭐⭐ |
+| [Writeup 2](./writeup2) | Alternative attack path with Kernel Exploitation | ⭐⭐⭐⭐ |
+| [Writeup 3](./bonus/writeup3.md) | Alternative attack path with Kernel boot parameters | ⭐⭐⭐ |
+| [Writeup 4](./bonus/writeup4.md) | Alternative  | ⭐⭐⭐ |
 
 ---
 
@@ -109,7 +111,8 @@ flowchart LR
 
 ## 👤 Author
 
-**42 Student** - Security Enthusiast
+**Romain Stride** - Cyber Enthusiast
+**Yacine Sabri** - Security Enthusiast
 
 ---
 
